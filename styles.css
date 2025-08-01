@@ -115,7 +115,7 @@ nav a:hover::after {
 
 /* Header */
 header {
-    background: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('https://photos.app.goo.gl/FqCu1zy4fTTEdFqU8') center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('Psicologia Mulheres em Movimento_header.png') center/cover no-repeat;
     color: var(--white);
     text-align: center;
     padding: 14rem 2rem 8rem;
@@ -567,7 +567,7 @@ textarea.form-control {
 
 /* Footer */
 footer {
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('https://photos.app.goo.gl/g2XAp5hwQ9D44CsQ6') center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('Psicoterapia online_horizonte_footer.PNG') center/cover no-repeat;
     color: var(--white);
     padding: 2rem 2rem 2rem;
     text-align: center;
