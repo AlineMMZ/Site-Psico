@@ -576,7 +576,7 @@ textarea.form-control {
 
 /* Footer */
 footer {
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('Psicoterapia online_horizonte_footer.PNG') center/cover no-repeat;
+    background: url('horizonte_footer.png') center/cover no-repeat;
     color: var(--white);
     padding: 2rem 2rem 2rem;
     text-align: center;
