@@ -113,6 +113,15 @@ nav a:hover::after {
     width: 100%;
 }
 
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+  flex-shrink: 0;
+}
+
 /* Header */
 header {
     background: url('Psicologia Mulheres em Movimento_header.png') center/cover no-repeat;
